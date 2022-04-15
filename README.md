@@ -1,4 +1,4 @@
-# Realm of the Mad God - Vault Pagination / Infinite Scrolling #
+# RFC - Vault Pagination / Infinite Scrolling #
 
 This RFC introduces a paging system to the Vault and Gift Chests located in the
 player's Vault, to improve the stability and performance of the game client.
